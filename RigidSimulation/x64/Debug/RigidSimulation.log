@@ -1,0 +1,3 @@
+﻿  RigidSimulation.cpp
+F:\Blood\Third\RigidSimulation\RigidSimulation\RigidSimulation.cpp(25,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  RigidSimulation.vcxproj -> F:\Blood\Third\RigidSimulation\x64\Debug\RigidSimulation.exe
